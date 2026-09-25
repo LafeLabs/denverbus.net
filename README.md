@@ -1,7 +1,4 @@
-# [Internet of Sticks](https://github.com/LafeLabs/southplatte.net)
-
-
-
+# [Internet of Trash](https://github.com/LafeLabs/denverbus.net)
 
 *THE MEDIUM IS THE MESSAGE!*
 
